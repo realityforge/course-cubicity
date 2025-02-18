@@ -2,5 +2,8 @@
 *.blend?
 *.blend??
 
+# Blender Asset file backups
+*~
+
 # Temp directory to experiment in
 /tmp

@@ -8,6 +8,7 @@ VERSION 1
 
 526816d8-1db9-4ba1-b0fd-0fc7cbb588fd:Buildings:Buildings
 55f6db5e-0eed-4f18-9fb9-a9b9da814b64:Ground:Ground
+5652e12c-9c72-44f5-a3ab-1122aa427e88:Materials:Materials
 9c031f8c-9e6a-475a-804b-89908f697099:Roof:Roof
 e17fdefc-ef3e-4fc3-8c93-ec722e700e6d:Streets:Streets
 14242354-778b-4045-bfc9-3d6406a1eadb:Vehicles:Vehicles
